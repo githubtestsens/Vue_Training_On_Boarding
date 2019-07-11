@@ -26,4 +26,37 @@ crafted components to npm and learn how Webpack and Vue play together in the pro
 patterns using Vuex to make sure your apps are maintainable and performant.
 - **Chapter 11**, Integrating with External Frameworks, is where you build four different applications with Vue
 and Electron, Firebase, Feathers, and Horizon.
+## Learning_Vue.js_2_(2016)
+The book is published by Packt Publishing Ltd in 2017 and is written by Olga Filipova. This book is about Vue.js. We will start our journey trying to understand what Vue.js is, how it compares to other frameworks, and what it allows us to do. We will learn different aspects of Vue.js while building small funny applications on top of it and applying these aspects in practice. In the end, we will look back to see what've we learned and have a look into the future to see what we can still learn and do. So, you will learn the following:
+-What is Vue.js and how it works Reactivity and data binding with Vue.js
+-Reusable components with Vue.js Plugins for Vue.js
+-Testing and deploying applications written in Vue.js.
+All the examples in this book are built on top of the recently released Vue 2.0 version. The book also contains references to the previous version regarding deprecated or changed aspects of the framework.
+All subjects which the chapters of this book covers:
+- **Chapter 1**, Going Shopping with Vue.js, contains an introduction to Vue.js, to the terminology
+used through the book, and first basic examples.
+- **Chapter 2**, Fundamentals – Installing and Using, explains the behind the scenes of Vue.js,
+provides theoretical insights into the architectural pattern, touches nearly all the main Vue.js
+concepts, and bootstraps the applications that will be developed through the book.
+ - **Chapter 3**, Components – Understanding and Using , goes deep into components and explains
+how to rewrite applications using a simple component system and single-file components.
+- **Chapter 4**, Reactivity – Binding Data to Your Application , contains a detailed explanations of
+the usage of data binding mechanisms in Vue.js.
+- **Chapter 5**, Vuex – Managing State in Your Application , contains detailed introduction to Vuex,
+a state management system for Vue.js, and explains how to use it in your application in order
+to achieve a nice, maintainable architecture.
+- **Chapter 6**, Plugins – Building Your House with Your Own Bricks , shows how to use plugins in
+Vue applications and explains how to use an existing plugin in an application and explains
+how to build our own plugin and then use it.
+- **Chapter 7**, Testing – Time to Test What We Have Done So Far, contains an introduction to the
+testing techniques that can be used in Vue applications to bring them to the needed level of
+quality. We tackle it by showing how to write unit tests and how to develop end-to-end tests for
+the applications in the book.
+- **Chapter 8**, Deploying – Time to Go Live!, shows how to bring your Vue application to the
+world, guaranteeing its quality with continuous integration tools. It explains how to connect a
+GitHub repository to the Travis continuous integration system and to the Heroku cloud
+deployment platform.
+- **Chapter 9**, What Is Next, wraps up everything that has been done so far and leaves the reader
+with the follow up steps.
+- **Appendix**, Solutions to Exercises, provides solutions to the exercises for first three chapters.
 
