@@ -60,4 +60,4 @@ deployment platform.
 with the follow up steps.
 - **Appendix**, Solutions to Exercises, provides solutions to the exercises for first three chapters.
 ## The Vue Handbook_ a thorough introduction to Vue.js
-This is not a published book written by Flavio Copes. You may find the title at the [freecodecamp] (https://www.freecodecamp.org/news/the-vue-handbook-a-thorough-introduction-to-vue-js-1e86835d8446/) website. It is a simple good starting for Vue developing. This book does not have chapters. However, it includes many clear samples for beginers. 
+This is not a published book written by Flavio Copes. You may find the title at the [freecodecamp](https://www.freecodecamp.org/news/the-vue-handbook-a-thorough-introduction-to-vue-js-1e86835d8446/) website. It is a simple good starting for Vue developing. This book does not have chapters. However, it includes many clear samples for beginers. 
