@@ -4,4 +4,5 @@ This repository is hosting for developing front-end training Vue js library deve
 All helpful docs are provided here as files in PDF formats. 
 ## Videos
 Here you may find you tube video links in videos.md file. All links has a descriptions for subjects and prerequirements.
-
+## Samples
+The folder consists of several useful code samples of VueJS projects.
